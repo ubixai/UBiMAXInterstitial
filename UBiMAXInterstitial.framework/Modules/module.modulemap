@@ -1,0 +1,6 @@
+framework module UBiMAXInterstitial {
+  umbrella header "UBiMAXInterstitial-umbrella.h"
+
+  export *
+  module * { export * }
+}
